@@ -22,11 +22,14 @@ You will annotate both images in the train and test folder.
 ## Image Annotation With Labelme
 Labelme is one of the most convenient annotation tool for polygon annotation. This article explains how to use labelme for annotation of objects.
 Install labelme and its dependencies.
-## On Windows:
+#### On Windows:
 pip3 install pyqt5
+
 pip3 install labelme
-## On Ubuntu 14.04 / Ubuntu 16.04:
+
+#### On Ubuntu 14.04 / Ubuntu 16.04:
 sudo apt-get install python3-pyqt5
+
 sudo pip3 install labelme
 
 In your PC’s anaconda or command prompt just type labelme and labelme’s GUI will be displayed as a separate window.
