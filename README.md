@@ -35,9 +35,11 @@ sudo pip3 install labelme
 In your PC’s anaconda or command prompt just type labelme and labelme’s GUI will be displayed as a separate window.
 
 ![1](https://user-images.githubusercontent.com/50747051/125186963-d8577680-e24a-11eb-962e-752c44f563ba.jpeg)
+
 In the GUI interface click on Open Dir, the second-left corner icon to open directory of the images you intend to annotate.
 
 ![2](https://user-images.githubusercontent.com/50747051/125186992-0046da00-e24b-11eb-83f6-615e8ee1d34c.jpeg)
+
 When you click on open Dir you can choose the folder containing the images.
 
 It will show the first image in the folder you selected.
