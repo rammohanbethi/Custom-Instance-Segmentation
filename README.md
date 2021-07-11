@@ -56,6 +56,7 @@ Finalize the annotation at the starting point i.e the neck of the squirrel(when 
 We finished the polygon annotation of the squirrel, we have to save it. You click the save icon(fifth-left corner icon) to save it.
 
 ![5](https://user-images.githubusercontent.com/50747051/125187059-561b8200-e24b-11eb-8467-ec61c2492570.jpeg)
+
 It saved annotation in a json format. By default the json file is saved in the image name and in the same directory as the image. Do not alter the name of the saved json file and the directory in which it is saved.
 
 **Note:**
