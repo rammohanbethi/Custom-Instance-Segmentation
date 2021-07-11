@@ -30,3 +30,5 @@ sudo apt-get install python3-pyqt5
 sudo pip3 install labelme
 
 In your PC’s anaconda or command prompt just type labelme and labelme’s GUI will be displayed as a separate window.
+
+https://miro.medium.com/max/700/1*ASQXYnUcsDrQp45fj1viiQ.jpeg
